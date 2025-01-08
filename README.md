@@ -11,7 +11,6 @@ Here are some screenhshots of the application.
 ![Screenshot (2028)](https://github.com/user-attachments/assets/4cb10d83-bf87-47a3-8c22-6290afdc0c51)
 ![Screenshot (2029)](https://github.com/user-attachments/assets/302c710b-a878-41e8-8e3a-18419855272c)
 ![Screenshot (2030)](https://github.com/user-attachments/assets/7458aad0-b655-4a36-b5da-1b1cc5d2c717)
-![Screenshot (2032)](https://github.com/user-attachments/assets/f36bfd4e-ed67-45de-b7a5-7581db637db9)
 ![Screenshot (2033)](https://github.com/user-attachments/assets/34176fd1-abdd-4b59-97f9-b1b7fdd3012c)
 
 
@@ -56,7 +55,7 @@ Quick access to budget and expense creation.
 
 3.Create a Budget you want and assign the amount and name to the budget.
 
-4.Add expenses to the Budget you have created.
+4.Add/Edit expenses to the Budget you have created.
 
 5.Create saving goals.
 
