@@ -39,7 +39,7 @@ Recent expenses table.
 Quick access to budget and expense creation.
 
 
-#Installation
+# Installation
 
 1.Git clone https://github.com/paramw20/Personal-Finance-Manager.git
 
@@ -47,7 +47,7 @@ Quick access to budget and expense creation.
 
 3.npm run dev
 
-#Steps to run the application
+# Steps to run the application
 
 1.Register the emial id and password and create the accocunt
 
