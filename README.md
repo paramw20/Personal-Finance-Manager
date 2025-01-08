@@ -43,16 +43,24 @@ Quick access to budget and expense creation.
 #Installation
 
 1.Git clone https://github.com/paramw20/Personal-Finance-Manager.git
+
 2.npm i
+
 3.npm run dev
 
 #Steps to run the application
 
 1.Register the emial id and password and create the accocunt
+
 2.Log in using the registered email and password.
+
 3.Create a Budget you want and assign the amount and name to the budget.
+
 4.Add expenses to the Budget you have created.
+
 5.Create saving goals.
+
 6.Track the budget,saving goals
+
 7.See the representation in Bar graph and pie chart for the budget
 
